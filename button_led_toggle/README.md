@@ -56,4 +56,4 @@ No extra resistor is needed for the button, because the code uses the Arduino's 
 - Simulating and debugging circuits in Wokwi before building them
 
 ## Demo video
-<!-- Drag and drop the video file here in the GitHub editor -->
+https://github.com/user-attachments/assets/de193b75-aa0f-4d3f-8e72-885f4931f625
