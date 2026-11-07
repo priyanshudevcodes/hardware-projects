@@ -1,4 +1,4 @@
-# 02 - Ultrasonic Radar 📡
+﻿# 02 - Ultrasonic Radar 📡
 
 A sweeping ultrasonic radar: an HC-SR04 sensor rides on an SG90 servo using a **custom bracket I designed in PTC Creo and 3D-printed**. The Arduino sweeps 15°–165°, measures distance at each angle, and a Python app draws a live radar screen.
 
@@ -57,14 +57,12 @@ python radar_view_pro.py COM4      # your port
 python radar_view_pro.py demo      # try it without hardware
 ```
 Keys: `+/-` range · `M` mirror · `C` clear · `S` screenshot · `Esc` quit
-(`radar_view.py` is a simpler matplotlib version.)
 
 ## Repo layout
 ```
 02-ultrasonic-radar/
 ├── radar/radar.ino          Arduino sketch (servo sweep + distance over serial)
 ├── radar_view_pro.py        pygame radar screen
-├── radar_view.py            simple matplotlib radar
 ├── requirements.txt
 ├── cad/                     STL, Bambu project, drawing, Creo screenshots
 ├── docs/                    circuit diagram, glue guide, slicer setup
