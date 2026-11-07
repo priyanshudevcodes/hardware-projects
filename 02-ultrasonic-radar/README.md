@@ -5,9 +5,8 @@ A sweeping ultrasonic radar: an HC-SR04 sensor rides on an SG90 servo using a **
 ![Radar screen](media/06_radar_screen.jpg)
 
 ## Demo video
-<!-- Upload the video: on github.com open this README → ✏️ Edit → drag demo.mp4 into this spot → Commit.
-     GitHub turns it into an inline player. -->
-https://github.com/priyanshudevcodes/hardware-projects/blob/main/02-ultrasonic-radar/media/demo.mp4
+
+https://github.com/user-attachments/assets/af302fba-015b-4089-9d8e-13f18763f435
 
 ## The build
 | Printed bracket + sensor | Mounted on the servo | Full setup |
