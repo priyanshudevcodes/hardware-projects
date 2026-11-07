@@ -1,0 +1,4 @@
+pygame-ce
+pyserial
+matplotlib
+numpy
